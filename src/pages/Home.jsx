@@ -180,7 +180,7 @@ const Home = () => {
           </div>
           <div className="flex justify-center mt-14">
             <a
-              href="/blog"
+              href="/Blog"
               className="inline-block bg-blue-600 text-white px-8 py-3 rounded-full font-bold shadow-lg hover:bg-blue-700 transition-colors duration-200 text-lg tracking-wide"
             >
               See All Blogs
